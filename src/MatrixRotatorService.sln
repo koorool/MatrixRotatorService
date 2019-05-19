@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRotatorService", "MatrixRotatorService\MatrixRotatorService.csproj", "{D9F6EF44-D5F9-4F98-B3CA-041D0C6ACCFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRotatorService.Tests", "MatrixRotatorService.Tests\MatrixRotatorService.Tests.csproj", "{8E5C335C-377F-4BE0-8236-F385456AAC21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F6EF44-D5F9-4F98-B3CA-041D0C6ACCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F6EF44-D5F9-4F98-B3CA-041D0C6ACCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F6EF44-D5F9-4F98-B3CA-041D0C6ACCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F6EF44-D5F9-4F98-B3CA-041D0C6ACCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5C335C-377F-4BE0-8236-F385456AAC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5C335C-377F-4BE0-8236-F385456AAC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5C335C-377F-4BE0-8236-F385456AAC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5C335C-377F-4BE0-8236-F385456AAC21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
